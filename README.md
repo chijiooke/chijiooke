@@ -3,6 +3,4 @@
 <p>currently obsessed with typescript + nodejs</p>
 <p>I work extensively with vanilla javascript and reactJs</P>
 <p>I paint on denim, in love with high fashion and afrobeats</p>
-<h3>Personal Site</h3>
-Visit my site at https://chijiooke.netlify.app/
-i've been too lazy to get this finished, hopefully soon, ..i guess>
+
