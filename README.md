@@ -1,6 +1,5 @@
 
-<h1>Front End Web Developer</h1>
-<p>Currently obsessed with typescript + nodejs</p>
-<p>I work extensively with vanilla javascript and reactJs</P>
-<p>I paint on denim, in love with high fashion and afrobeats</p>
+<h1>Hey, I'm Chijioke</h1>
+<p>I work extensively with typescript, reactJs and node</P>
+<p>I paint on denim on my off days (which are non-existent at this point), i'm love with high fashion and afrobeats</p>
 
