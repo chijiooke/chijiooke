@@ -1,3 +1,3 @@
 
 <h1>Hey, I'm Chijioke 💫</h1>
-<p>organised chaos</P>
+<p>here today, the stars tommorow</P>
